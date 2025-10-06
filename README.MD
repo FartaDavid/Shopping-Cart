@@ -1,4 +1,4 @@
-# IAP Shopping Cart Assignment
+# Shopping Cart Assignment
 
 ## Ce am facut:
 
