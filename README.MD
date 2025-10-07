@@ -1,4 +1,4 @@
-# Shopping Cart Assignment
+# Shopping Cart
 
 ## Ce am facut:
 
